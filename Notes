@@ -1,0 +1,6 @@
+ssh bandit0@bandit.labs.overthewire.org -p 2220 
+ls = list
+cd = go up to a directory
+
+when a filename has spaces put the name in "x" (quation marks) and to read a file put cat <-xxxx
+to read a file with a dash in the name type in cat ./-xxxx 
